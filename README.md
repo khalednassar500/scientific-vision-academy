@@ -1,4 +1,4 @@
-# [scientific-vision-academy](https://khalednassar500.github.io/scientific-vision-academy/)
+# [Scientific Vision Academy](https://khalednassar500.github.io/scientific-vision-academy/)
 Scientific Vision Academy is a premier language learning institution. Our mission is to provide students from all over the world with the opportunity to learn Arabic in an immersive and engaging environment, led by experienced instructors who are passionate about teaching and sharing their knowledge.
 
 ## Features
